@@ -1,0 +1,12 @@
+logs
+project/project
+project/target
+target
+tmp
+.project
+.classpath
+bin
+.target
+.cache
+.scala_dependencies
+.settings
